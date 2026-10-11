@@ -157,13 +157,9 @@ tail -f app.log
 
 💡 For production, configure Gunicorn with `systemd` and consider using Nginx as a reverse proxy.
 
-## 📊 Add an Architecture Image
+## 📤 Output
 
-Upload your architecture image to the repository in an `images` folder, named `python-deployment-architecture.png`, then add this Markdown:
-
-```markdown
-![Python Application Deployment Architecture](https://github.com/tusharthorat260-dot/python_project/blob/6538d512f1ed12caa64ad8b03b2ab78ec40ace36/2026-10-11.png)
-```
+![](https://github.com/tusharthorat260-dot/python_project/blob/6538d512f1ed12caa64ad8b03b2ab78ec40ace36/2026-10-11.png)
 
 ## ✅ Project Outcome
 
@@ -185,8 +181,7 @@ Upload your architecture image to the repository in an `images` folder, named `p
 
 This hands-on project helped me understand how to deploy a Python web application on a Linux server using GitHub, dependency management, virtual environments, and Gunicorn. I look forward to learning more about automation, CI/CD pipelines, and DevOps tools.
 
----
 
-### 🔖 Tags
+## 👤 Author
 
-#Python #Linux #GitHub #Gunicorn #AWS #DevOps #CloudComputing #HandsOnLearning
+**Tushar Thorat** — Cloud / DevOps Engineer
