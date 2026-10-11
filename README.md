@@ -162,7 +162,7 @@ tail -f app.log
 Upload your architecture image to the repository in an `images` folder, named `python-deployment-architecture.png`, then add this Markdown:
 
 ```markdown
-![Python Application Deployment Architecture](images/python-deployment-architecture.png)
+![Python Application Deployment Architecture](https://github.com/tusharthorat260-dot/python_project/blob/6538d512f1ed12caa64ad8b03b2ab78ec40ace36/2026-10-11.png)
 ```
 
 ## ✅ Project Outcome
